@@ -2,7 +2,7 @@
 ## I'm a Tech Enthusiast Student .
 - 🌱 I’m currently learning Mobile App Developement with Flutter 
 - 👯 I’m looking to collaborate with other content creators 
-- 🥅 2022 Goals: Contribute more to Open Source projects 
+- 🥅 2023 Goals: Contribute more to Open Source projects 
 - 👀 Fun fact: I love to code when i get bored and then i gets bored 
 
 ### Connect with me:
